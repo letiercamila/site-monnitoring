@@ -11,5 +11,4 @@ This tool created with Go monitors websites showing if they are online or not fo
 ## :hammer: Project uses 
 
 - `Use 1`: Choosing the first option will show whether the site is online or not writing in a log file the date of loading, the url of the site, along with true (online) or false (offline)
-<img src="">
 - `Use 2`: the logs captured by the monitor will be shown on the console
