@@ -2,7 +2,7 @@
 
 <h1 align="center"> Website monitor </h1>
 
-![Badge Finished](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINISHED&color=GREEN&style=for-the-badge)
+![Badge Finished](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 
 Small project created only for training. 
 
